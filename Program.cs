@@ -15,7 +15,7 @@ namespace Nerd_Console
         static void Main(string[] args)
         {
             Console.WriteLine("Please wait for further development...");
-            Console.ReadLine();
+            Console.ReadKey();
 
             bool canParse = false;
             optionContainer.Add(1);
@@ -27,10 +27,11 @@ namespace Nerd_Console
                 Console.WriteLine("\n Please Enter The Index Of The Function You Wish To Run... ");
                 Console.WriteLine(" 1: Close Application. ");
                 Console.WriteLine("\n___________________________________________________________"); // Length of longest string!
+                Console.Write(" Index: ");
                 canParse = int.TryParse(Console.ReadLine(), out int result);
                 returnedOption = result;
             }
-            
+
             switch (returnedOption)
             {
                 case 1:
