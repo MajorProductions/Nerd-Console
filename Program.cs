@@ -10,6 +10,8 @@ namespace Nerd_Console
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Please wait for further development...");
+            Console.ReadLine();
         }
     }
 }
