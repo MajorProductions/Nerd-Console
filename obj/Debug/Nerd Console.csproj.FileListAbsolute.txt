@@ -1,0 +1,6 @@
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\Nerd Console.exe.config
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\Nerd Console.exe
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\Nerd Console.pdb
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\obj\Debug\Nerd Console.csprojResolveAssemblyReference.cache
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\obj\Debug\Nerd Console.exe
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\obj\Debug\Nerd Console.pdb
