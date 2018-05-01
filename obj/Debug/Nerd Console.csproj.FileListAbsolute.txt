@@ -4,3 +4,14 @@ c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bi
 c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\obj\Debug\Nerd Console.csprojResolveAssemblyReference.cache
 c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\obj\Debug\Nerd Console.exe
 c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\obj\Debug\Nerd Console.pdb
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\Nerd Lib.dll
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\Community.RandomOrg.dll
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\System.Data.JsonRpc.dll
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\Newtonsoft.Json.dll
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\System.Buffers.dll
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\Nerd Lib.pdb
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\Nerd Lib.dll.config
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\Community.RandomOrg.xml
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\System.Data.JsonRpc.xml
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\Newtonsoft.Json.xml
+c:\users\main\documents\visual studio 2017\Projects\Nerd Console\Nerd Console\bin\Debug\System.Buffers.xml

@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Nerd Lib\Nerd Lib.csproj">
+      <Project>{3ad65654-d6e2-4182-8189-022ab2ac53eb}</Project>
+      <Name>Nerd Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
